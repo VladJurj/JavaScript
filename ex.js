@@ -34,3 +34,16 @@ if (personAge >= 18) {
 } else {
   console.log("The person is a minor.");
 }
+
+
+
+
+
+
+const condition = true;
+
+if (!condition) {
+  console.log("The condition is true.");
+} else {
+  console.log("The condition is not true.");
+}
