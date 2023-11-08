@@ -26,3 +26,11 @@ if (valueA > valueB) {
 } else {
   console.log("valueB is greater than or equal to valueA");
 }
+
+const personAge = 19;
+
+if (personAge >= 18) {
+  console.log("The person is an adult.");
+} else {
+  console.log("The person is a minor.");
+}
